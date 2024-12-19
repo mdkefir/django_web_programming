@@ -29,3 +29,8 @@ coverage
 *.sw?
 
 *.tsbuildinfo
+
+__pycache
+*.sqlite3
+.conda
+media
